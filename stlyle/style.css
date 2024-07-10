@@ -68,7 +68,6 @@ main{
 div p{
     font-size: 12px;
     font-weight: 400;
-    /* margin: 20px auto; */
 }
 button{
     padding: 10px 12px;
@@ -107,7 +106,7 @@ button a{
     text-align: center;
 }
 
-#Inspiration{
+.Inspiration{
     font-size: 12px;
     font-weight: 400;
     margin: 20px auto;
@@ -123,4 +122,44 @@ button a{
 div iframe{
     border-radius: 15px;
 }
+.skills{
+    background-color: white;
+    width: 70%;
+    margin:38px auto;
 
+}
+.skills-des{
+    margin: 8px auto;
+    text-align: center;
+    width: 70%; 
+
+}
+
+.skills-items{
+    display: flex;
+    
+}
+.skills-1{
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 20px;
+    border: 10px;
+    margin: 32px 10px;
+}
+.skills-2{
+    background-color: rgba(0, 76, 232, 0.05);
+    padding: 20px;
+    border: 10px;
+    border-radius: 10px;
+    margin: 32px 10px;
+
+}
+.skills-3{
+    padding: 20px;
+    border: 10px;
+    border-radius: 10px;
+    margin: 32px 10px;
+    background: rgba(255, 223, 0, 0.05);
+}
+div a{
+    margin: 10px;
+}
