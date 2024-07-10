@@ -1,0 +1,43 @@
+body{
+    font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+.banner-name{
+    font-size: 32px;
+    font-weight: 800;
+    /* padding: 10px 0; */
+}
+
+.banner-description{
+    font-size: 13px;
+    font-weight: 400;
+    margin: 20px auto;
+}
+.banner-img{
+    padding: 10px auto;
+    margin: 10px auto;
+}
+.btn-primary{
+    background-color: rgb(13, 19, 33);
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 14px 24px;
+    margin: 14.4px;
+    border: 12px;
+    border-radius: 5px;
+}
+header div{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+header{
+    background-image: url(../stlyle/assets/Hero-bg.png);
+    max-width: auto;
+    height: 600px;
+    background-position: center;
+    margin: 50px 0;
+}
