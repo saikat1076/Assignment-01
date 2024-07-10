@@ -160,6 +160,21 @@ div iframe{
     margin: 32px 10px;
     background: rgba(255, 223, 0, 0.05);
 }
-div a{
-    margin: 10px;
+.dev-3{
+    background-image: url(../stlyle/assets/handshake.jpg);
+    padding: 50px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    text-align: center;
+    color: white;
+    border-radius: 16px;
+}
+form input{
+    padding: 10px;
+    width: 300px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
 }
