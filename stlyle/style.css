@@ -41,3 +41,59 @@ header{
     background-position: center;
     margin: 50px 0;
 }
+main{
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgba(13, 19, 33, 0.02);
+}
+#dev-1{
+    padding: 48px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+
+
+.section-title{
+    text-align: center;
+}
+.items-1{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.i-1{
+    max-width: 500px;
+   height: 152px;
+    padding: 0 28px;
+}
+button{
+    padding: 10px 12px;
+    margin: 19px 0;
+}
+button a{
+    text-decoration: none;
+    color: #000;
+}
+.items-2{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.i-2{
+    max-width: 500px;
+    height: 162px;
+    padding: 0 28px;
+}
+.items-3{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.i-3{
+    max-width: 500px;
+    height: 162px;
+    padding: 0 28px;
+}
