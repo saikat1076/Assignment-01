@@ -44,15 +44,13 @@ header{
 main{
     width: 70%;
     margin: 0 auto;
-    background-color: rgba(13, 19, 33, 0.02);
+    
 }
 #dev-1{
     padding: 48px;
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.02);
 }
-
-
 .section-title{
     text-align: center;
 }
@@ -66,6 +64,11 @@ main{
     max-width: 500px;
    height: 152px;
     padding: 0 28px;
+}
+div p{
+    font-size: 12px;
+    font-weight: 400;
+    /* margin: 20px auto; */
 }
 button{
     padding: 10px 12px;
@@ -97,3 +100,27 @@ button a{
     height: 162px;
     padding: 0 28px;
 }
+.dev-2{
+    background-color: white;
+    width: 70%;
+    margin:38px auto;
+    text-align: center;
+}
+
+#Inspiration{
+    font-size: 12px;
+    font-weight: 400;
+    margin: 20px auto;
+}
+.video{
+    padding: 20px;
+    margin: 28px 0;
+    border: 10px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+}
+div iframe{
+    border-radius: 15px;
+}
+
